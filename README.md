@@ -52,4 +52,4 @@ A full-stack **Expense Tracking Application** built using:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Mayurishetty-04/Expense_Tracker.git
-cd Expense_Tracker
+cd expense_tracker
